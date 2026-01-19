@@ -1009,7 +1009,7 @@
         {
          "draworder":"topdown",
          "id":21,
-         "name":"CouchSitTest",
+         "name":"Interactables Living Room",
          "objects":[
                 {
                  "height":0,
@@ -1032,6 +1032,94 @@
                  "width":0,
                  "x":1311.33333333333,
                  "y":531.333333333333
+                }, 
+                {
+                 "height":0,
+                 "id":23,
+                 "name":"Couch 4",
+                 "rotation":0,
+                 "type":"Seat",
+                 "visible":true,
+                 "width":0,
+                 "x":1363.33333333333,
+                 "y":490
+                }, 
+                {
+                 "height":0,
+                 "id":24,
+                 "name":"Couch 4",
+                 "rotation":0,
+                 "type":"Seat\\",
+                 "visible":true,
+                 "width":0,
+                 "x":1411.33333333333,
+                 "y":490
+                }, 
+                {
+                 "height":0,
+                 "id":27,
+                 "name":"Cat",
+                 "rotation":0,
+                 "type":"Sound",
+                 "visible":true,
+                 "width":0,
+                 "x":1296,
+                 "y":269.333333333333
+                }, 
+                {
+                 "height":0,
+                 "id":29,
+                 "name":"Game",
+                 "rotation":0,
+                 "type":"Seat",
+                 "visible":true,
+                 "width":0,
+                 "x":1425.33333333333,
+                 "y":560
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "id":22,
+         "name":"Interactable Door",
+         "objects":[
+                {
+                 "height":0,
+                 "id":31,
+                 "name":"Locked Door",
+                 "rotation":0,
+                 "type":"Loced Door",
+                 "visible":true,
+                 "width":0,
+                 "x":880,
+                 "y":647.333333333333
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "id":24,
+         "name":"Interactable Front Desk",
+         "objects":[
+                {
+                 "height":0,
+                 "id":32,
+                 "name":"Chat Spot",
+                 "rotation":0,
+                 "type":"Chat",
+                 "visible":true,
+                 "width":0,
+                 "x":974.666666666667,
+                 "y":1434
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1039,8 +1127,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":22,
- "nextobjectid":23,
+ "nextlayerid":25,
+ "nextobjectid":35,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.11.2",
