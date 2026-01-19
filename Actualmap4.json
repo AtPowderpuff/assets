@@ -1036,7 +1036,13 @@
                 {
                  "height":0,
                  "id":23,
-                 "name":"Couch 4",
+                 "name":"Couch 3",
+                 "properties":[
+                        {
+                         "name":"direction",
+                         "type":"string",
+                         "value":"down"
+                        }],
                  "rotation":0,
                  "type":"Seat",
                  "visible":true,
@@ -1048,6 +1054,12 @@
                  "height":0,
                  "id":24,
                  "name":"Couch 4",
+                 "properties":[
+                        {
+                         "name":"direction",
+                         "type":"string",
+                         "value":"down"
+                        }],
                  "rotation":0,
                  "type":"Seat\\",
                  "visible":true,
@@ -1076,6 +1088,28 @@
                  "width":0,
                  "x":1425.33333333333,
                  "y":560
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "id":25,
+         "name":"OfficeChairs",
+         "objects":[
+                {
+                 "height":0,
+                 "id":36,
+                 "name":"Chair 1",
+                 "rotation":0,
+                 "type":"OfficeSit",
+                 "visible":true,
+                 "width":0,
+                 "x":146,
+                 "y":322
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1127,8 +1161,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":25,
- "nextobjectid":35,
+ "nextlayerid":26,
+ "nextobjectid":37,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.11.2",
