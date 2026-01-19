@@ -1201,20 +1201,56 @@
  "tileheight":32,
  "tilesets":[
         {
+         "columns":16,
          "firstgid":1,
-         "source":"..\/..\/Downloads\/Room_Builder_Office_32x32.tsx"
+         "image":"..\/..\/Downloads\/Modern_Office_Revamped_v1.2\/1_Room_Builder_Office\/Room_Builder_Office_32x32.png",
+         "imageheight":448,
+         "imagewidth":512,
+         "margin":0,
+         "name":"Room_Builder_Office_32x32",
+         "spacing":0,
+         "tilecount":224,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":16,
          "firstgid":225,
-         "source":"..\/..\/Downloads\/Modern_Office_Black_Shadow_32x32.tsx"
+         "image":"..\/..\/Downloads\/Modern_Office_Revamped_v1.2\/2_Modern_Office_Black_Shadow\/Modern_Office_Black_Shadow_32x32.png",
+         "imageheight":1696,
+         "imagewidth":512,
+         "margin":0,
+         "name":"Modern_Office_Black_Shadow_32x32",
+         "spacing":0,
+         "tilecount":848,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":16,
          "firstgid":1073,
-         "source":"..\/..\/Downloads\/Interiors_32x32.tsx"
+         "image":"..\/..\/Downloads\/moderninteriors-win\/1_Interiors\/32x32\/Interiors_32x32.png",
+         "imageheight":34048,
+         "imagewidth":512,
+         "margin":0,
+         "name":"Interiors_32x32",
+         "spacing":0,
+         "tilecount":17024,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":76,
          "firstgid":18097,
-         "source":"..\/..\/Downloads\/Room_Builder_32x32.tsx"
+         "image":"..\/..\/Downloads\/moderninteriors-win\/1_Interiors\/32x32\/Room_Builder_32x32.png",
+         "imageheight":3616,
+         "imagewidth":2432,
+         "margin":0,
+         "name":"Room_Builder_32x32",
+         "spacing":0,
+         "tilecount":8588,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
