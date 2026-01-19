@@ -770,193 +770,6 @@
          "y":0
         }, 
         {
-         "draworder":"topdown",
-         "id":20,
-         "name":"Decor Layer 3: Front Chairs",
-         "objects":[
-                {
-                 "height":0,
-                 "id":5,
-                 "name":"Chair 7",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":0,
-                 "x":460.074,
-                 "y":364.886
-                }, 
-                {
-                 "height":0,
-                 "id":6,
-                 "name":"Chair 5",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":0,
-                 "x":463.247,
-                 "y":203.42
-                }, 
-                {
-                 "height":0,
-                 "id":7,
-                 "name":"Chair 8",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":0,
-                 "x":559.492,
-                 "y":364.886
-                }, 
-                {
-                 "height":0,
-                 "id":8,
-                 "name":"Chair 6",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":0,
-                 "x":555.614,
-                 "y":207.298
-                }, 
-                {
-                 "height":0,
-                 "id":9,
-                 "name":"Chair 16",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":0,
-                 "x":556.319,
-                 "y":561.608
-                }, 
-                {
-                 "height":0,
-                 "id":10,
-                 "name":"Chair 15",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":0,
-                 "x":458.664,
-                 "y":559.845
-                }, 
-                {
-                 "height":0,
-                 "id":11,
-                 "name":"Chair 13",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":0,
-                 "x":463.247,
-                 "y":394.5
-                }, 
-                {
-                 "height":0,
-                 "id":12,
-                 "name":"Chair 14",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":0,
-                 "x":559.492,
-                 "y":397.673
-                }, 
-                {
-                 "height":0,
-                 "id":13,
-                 "name":"Chair 11",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":0,
-                 "x":139.609,
-                 "y":564.075
-                }, 
-                {
-                 "height":0,
-                 "id":14,
-                 "name":"Chair 12",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":0,
-                 "x":235.501,
-                 "y":560.55
-                }, 
-                {
-                 "height":0,
-                 "id":15,
-                 "name":"Chair 10",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":0,
-                 "x":241.495,
-                 "y":401.199
-                }, 
-                {
-                 "height":0,
-                 "id":16,
-                 "name":"Chair 9",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":0,
-                 "x":149.127,
-                 "y":396.616
-                }, 
-                {
-                 "height":0,
-                 "id":17,
-                 "name":"Chair 3",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":0,
-                 "x":137.846,
-                 "y":363.476
-                }, 
-                {
-                 "height":0,
-                 "id":18,
-                 "name":"Chair 4",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":0,
-                 "x":238.674,
-                 "y":361.361
-                }, 
-                {
-                 "height":0,
-                 "id":19,
-                 "name":"Chair 2",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":0,
-                 "x":238.322,
-                 "y":198.837
-                }, 
-                {
-                 "height":44.4209,
-                 "id":20,
-                 "name":"Chair 1",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":0,
-                 "x":141.724,
-                 "y":193.548
-                }],
-         "opacity":1,
-         "type":"objectgroup",
-         "visible":true,
-         "x":0,
-         "y":0
-        }, 
-        {
          "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -1192,9 +1005,42 @@
          "width":48,
          "x":0,
          "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "id":21,
+         "name":"CouchSitTest",
+         "objects":[
+                {
+                 "height":0,
+                 "id":21,
+                 "name":"Couch 1",
+                 "rotation":0,
+                 "type":"Seat",
+                 "visible":true,
+                 "width":0,
+                 "x":1310.66666666667,
+                 "y":568
+                }, 
+                {
+                 "height":0,
+                 "id":22,
+                 "name":"Couch 2",
+                 "rotation":0,
+                 "type":"Seat",
+                 "visible":true,
+                 "width":0,
+                 "x":1311.33333333333,
+                 "y":531.333333333333
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
         }],
- "nextlayerid":21,
- "nextobjectid":21,
+ "nextlayerid":22,
+ "nextobjectid":23,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.11.2",
